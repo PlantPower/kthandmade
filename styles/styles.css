@@ -9,30 +9,28 @@ version: 1.0
 */
 
 /* General Styles */
-body{
-    font-family: "Roboto", Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    line-height: 1.42857143;
-    color: #333333;
-    background-color: #f4f4f4;
-    overflow-x: hidden;
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333333;
+  background-color: #f0f0f0;
+  overflow-x: hidden;
   
   }
   
-  /* Top Navbar Styles */
+  /* Top Navbar Styles  */
   
   #top {
     background: #555555;
     padding: 10px 0;
-  
   }
   
   #top .offer {
-    text-transform: uppercase;
     color: #fff;
   }
   
-  #top .offer .btn{
+  #top .offer .btn {
   text-transform: uppercase;
   }
   
@@ -44,8 +42,8 @@ body{
   
   @media (max-width: 991px) {
     #top {
-      font-size: 12px;
-      text-align: center;
+    font-size: 12px;
+    text-align: center;
     }
   }
   
@@ -59,11 +57,11 @@ body{
     text-align: right;
     font-size: 12px;
     list-style: none;
-  }
+    }
   
   @media (max-width: 991px) {
-    #top ul.menu {
-      text-align: center;
+  #top ul.menu {
+    text-align: center;
     }
   }
   
@@ -76,8 +74,10 @@ body{
   }
   
   #top ul.menu > li + li:before {
-    content: "|\00a0";
-    padding:  0 5px;
+    content: "|\00a0"; 
+    padding: 0 5px;
     color: #f7f7f7;
+  
   }
+  
   
