@@ -48,8 +48,8 @@
       <div class="container" ><!-- container Starts -->
         <div class="navbar-header"><!-- navbar-header Starts -->
           <a class="navbar-brand home" href="index.php" ><!--- navbar navbar-brand home Starts -->
-            <img src="images/ktlogoRS.png" alt="kthandmadelogo" class="hidden-xs" >
-            <img src="images/ktlogoRS.png" alt="kthandmadelogosmall" class="visible-xs" >
+            <img src="" alt="KT Handmade Shop" class="hidden-xs" >
+            <img src="images/ktlogoRS.jpg" alt="kthandmadelogosmall" class="visible-xs" >
           </a><!--- navbar navbar-brand home Ends -->
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation"  >
             <span class="sr-only" >Toggle Navigation </span>
