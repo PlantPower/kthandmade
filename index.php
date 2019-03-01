@@ -97,7 +97,7 @@
                   <span class="input-group-btn"><!-- input-group-btn Starts -->
                   <button type="submit" value="Search" name="search" class="btn btn-primary">
                     <i class="fa fa-search"></i>
-                  </button>
+                  </button> 
                 </span><!-- input-group-btn Ends -->
               </div><!-- input-group Ends -->
             </form><!-- navbar-form Ends -->
@@ -105,6 +105,32 @@
         </div><!-- navbar-collapse collapse Ends -->
       </div><!-- container Ends -->
     </div><!-- navbar navbar-default Ends -->
+
+    <!-- SLIDER STARTS HERE -->
+    <!-- BUt Im not Sure If I will use a slider yet, have to consider -->
+
+    <div class="container" id="slider"> <!-- container starts -->
+      <div class="col-md-12"><!-- col-md-12 starts -->
+        <div id="myCarousel" class="carousel slide" data-ride="carousel"><!-- carousel slide starts -->
+          <ol class="carousle-indicators"><!--carousel indicators starts -->
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+          </ol> <!-- carousel indicators ends -->
+          <div class="carousel-inner"><!--carousel-inner starts -->
+            <div class="item active">
+              <img src="" alt="slider images will be shown here 1">
+            </div>
+            <div class="item">
+              <img src="" alt="slider images will be shown here 2">
+            </div>
+          </div> <!-- carouse-inner ends -->
+        </div> <!-- carousel slides ends -->
+      </div> <!--col-md-12 ends -->
+    </div> <!-- container ends --> 
+
+    <!-- SLIDER ENDS HERE -->
 
     <script src="js/jquery.min.js"> </script>
     <script src="js/bootstrap.min.js"></script>

@@ -141,3 +141,22 @@ color: #eeeeee;
     background-color:rgb(79, 191, 168);
     border-color: rgb(65, 179, 156);
 }
+
+#search .navbar-form{
+    float: right;
+}
+
+#search{
+    clear: both;
+    border-top: solid 1px #980acd;
+    text-align: right;
+}
+
+#search .navbar-form .input-group{
+    display: table;
+}
+
+#search .navbar-form .input-group .form-control {
+    width: 100%;
+}
+
