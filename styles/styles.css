@@ -22,61 +22,80 @@ body {
   /* Top Navbar Styles  */
   
   #top {
-    background: #555555;
-    padding: 10px 0;
+  
+  background: #555555;
+  padding: 10px 0;
+  
   }
   
   #top .offer {
-    color: #fff;
+  color: #fff;
   }
   
   #top .offer .btn {
+  
   text-transform: uppercase;
+  
   }
   
   @media (max-width: 991px) {
-    #top .offer {
-      margin-bottom: 10px;
-    }
+  
+  #top .offer {
+  margin-bottom: 10px;
+  }
+  
   }
   
   @media (max-width: 991px) {
-    #top {
-    font-size: 12px;
-    text-align: center;
-    }
+  
+  #top {
+  font-size: 12px;
+  text-align: center;
   }
   
-  #top a{
-    color: #fff;
+  }
+  
+  #top a {
+  
+  color: #fff;
+  
   }
   
   #top ul.menu {
-    padding-top: 5px;
-    margin: 0;
-    text-align: right;
-    font-size: 12px;
-    list-style: none;
-    }
+  
+  padding-top: 5px;
+  
+  margin: 0;
+  text-align: right;
+  font-size: 12px;
+  list-style: none;
+  
+  }
   
   @media (max-width: 991px) {
+  
   #top ul.menu {
-    text-align: center;
-    }
+  text-align: center;
+  }
+  
   }
   
   #top ul.menu > li {
-    display: inline-block;
+  
+  display: inline-block;
+  
   }
   
   #top ul.menu > li a {
-    color: #eeeeee;
+  
+  color: #eeeeee;
+  
   }
   
   #top ul.menu > li + li:before {
-    content: "|\00a0"; 
-    padding: 0 5px;
-    color: #f7f7f7;
+  content: "|\00a0"; 
+  padding: 0 5px;
+  color: #f7f7f7;
   
   }
   
