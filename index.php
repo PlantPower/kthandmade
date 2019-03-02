@@ -177,6 +177,182 @@
       </div> <!--container ends -->
     </div> <!--advantages ends -->
 
+    <div id="hot"><!-- hot starts -->
+      <div class="box"><!--box starts -->
+        <div class="container"><!--container starts -->
+          <div class="col-md-12"> <!--col md 12 starts -->
+            <h2>Latest This Week</h2>
+          </div> <!--colmd12 ends -->
+        </div> <!--container ends -->
+      </div> <!--box ends -->
+    </div> <!-- hot ends -->
+
+    <div id="content" class="container"><!-- container starts -->
+      <div class="row"><!--row starts-->
+        <div class="col-sm-4 col-sm-6 single"><!--colsm4colsm6single-->
+          <div class="product"><!--product starts-->
+            <a href="details.php">
+              <img class="img-responsive" src="admin_area/product_images/product1.jpg" alt="">
+            </a>
+          </div><!--product ends-->
+          <div class="text"><!--text starts-->
+            <h3>
+              <a href="details.php">KT Products</a>
+            </h3>
+            <p class="price">$50</p>
+            <p class="buttons">
+              <a class="btn btn-default" href="details.php">View Details</a>
+              <a href="details.php" class="btn btn-primary">
+                <i class="fa fa-shopping-cart"></i>Add to Cart
+              </a>
+            </p>
+          </div><!--text ends-->
+        </div><!--colsm4colsm6 single ends-->
+
+        <div class="col-sm-4 col-sm-6 single"><!--colsm4colsm6single-->
+          <div class="product"><!--product starts-->
+            <a href="details.php">
+              <img class="img-responsive" src="admin_area/product_images/product1.jpg" alt="">
+            </a>
+          </div><!--product ends-->
+          <div class="text"><!--text starts-->
+            <h3>
+              <a href="details.php">KT Products</a>
+            </h3>
+            <p class="price">$50</p>
+            <p class="buttons">
+              <a class="btn btn-default" href="details.php">View Details</a>
+              <a href="details.php" class="btn btn-primary">
+                <i class="fa fa-shopping-cart"></i>Add to Cart
+              </a>
+            </p>
+          </div><!--text ends-->
+        </div><!--colsm4colsm6 single ends-->
+
+        <div class="col-sm-4 col-sm-6 single"><!--colsm4colsm6single-->
+          <div class="product"><!--product starts-->
+            <a href="details.php">
+              <img class="img-responsive" src="admin_area/product_images/product1.jpg" alt="">
+            </a>
+          </div><!--product ends-->
+          <div class="text"><!--text starts-->
+            <h3>
+              <a href="details.php">KT Products</a>
+            </h3>
+            <p class="price">$50</p>
+            <p class="buttons">
+              <a class="btn btn-default" href="details.php">View Details</a>
+              <a href="details.php" class="btn btn-primary">
+                <i class="fa fa-shopping-cart"></i>Add to Cart
+              </a>
+            </p>
+          </div><!--text ends-->
+        </div><!--colsm4colsm6 single ends-->
+
+        <div class="col-sm-4 col-sm-6 single"><!--colsm4colsm6single-->
+          <div class="product"><!--product starts-->
+            <a href="details.php">
+              <img class="img-responsive" src="admin_area/product_images/product1.jpg" alt="">
+            </a>
+          </div><!--product ends-->
+          <div class="text"><!--text starts-->
+            <h3>
+              <a href="details.php">KT Products</a>
+            </h3>
+            <p class="price">$50</p>
+            <p class="buttons">
+              <a class="btn btn-default" href="details.php">View Details</a>
+              <a href="details.php" class="btn btn-primary">
+                <i class="fa fa-shopping-cart"></i>Add to Cart
+              </a>
+            </p>
+          </div><!--text ends-->
+        </div><!--colsm4colsm6 single ends-->
+
+        <div class="col-sm-4 col-sm-6 single"><!--colsm4colsm6single-->
+          <div class="product"><!--product starts-->
+            <a href="details.php">
+              <img class="img-responsive" src="admin_area/product_images/product1.jpg" alt="">
+            </a>
+          </div><!--product ends-->
+          <div class="text"><!--text starts-->
+            <h3>
+              <a href="details.php">KT Products</a>
+            </h3>
+            <p class="price">$50</p>
+            <p class="buttons">
+              <a class="btn btn-default" href="details.php">View Details</a>
+              <a href="details.php" class="btn btn-primary">
+                <i class="fa fa-shopping-cart"></i>Add to Cart
+              </a>
+            </p>
+          </div><!--text ends-->
+        </div><!--colsm4colsm6 single ends-->
+
+        <div class="col-sm-4 col-sm-6 single"><!--colsm4colsm6single-->
+          <div class="product"><!--product starts-->
+            <a href="details.php">
+              <img class="img-responsive" src="admin_area/product_images/product1.jpg" alt="">
+            </a>
+          </div><!--product ends-->
+          <div class="text"><!--text starts-->
+            <h3>
+              <a href="details.php">KT Products</a>
+            </h3>
+            <p class="price">$50</p>
+            <p class="buttons">
+              <a class="btn btn-default" href="details.php">View Details</a>
+              <a href="details.php" class="btn btn-primary">
+                <i class="fa fa-shopping-cart"></i>Add to Cart
+              </a>
+            </p>
+          </div><!--text ends-->
+        </div><!--colsm4colsm6 single ends-->
+
+        <div class="col-sm-4 col-sm-6 single"><!--colsm4colsm6single-->
+          <div class="product"><!--product starts-->
+            <a href="details.php">
+              <img class="img-responsive" src="admin_area/product_images/product1.jpg" alt="">
+            </a>
+          </div><!--product ends-->
+          <div class="text"><!--text starts-->
+            <h3>
+              <a href="details.php">KT Products</a>
+            </h3>
+            <p class="price">$50</p>
+            <p class="buttons">
+              <a class="btn btn-default" href="details.php">View Details</a>
+              <a href="details.php" class="btn btn-primary">
+                <i class="fa fa-shopping-cart"></i>Add to Cart
+              </a>
+            </p>
+          </div><!--text ends-->
+        </div><!--colsm4colsm6 single ends-->
+
+        <div class="col-sm-4 col-sm-6 single"><!--colsm4colsm6single-->
+          <div class="product"><!--product starts-->
+            <a href="details.php">
+              <img class="img-responsive" src="admin_area/product_images/product1.jpg" alt="">
+            </a>
+          </div><!--product ends-->
+          <div class="text"><!--text starts-->
+            <h3>
+              <a href="details.php">KT Products</a>
+            </h3>
+            <p class="price">$50</p>
+            <p class="buttons">
+              <a class="btn btn-default" href="details.php">View Details</a>
+              <a href="details.php" class="btn btn-primary">
+                <i class="fa fa-shopping-cart"></i>Add to Cart
+              </a>
+            </p>
+          </div><!--text ends-->
+        </div><!--colsm4colsm6 single ends-->
+
+
+      </div> <!--row ends-->
+    </div> <!--container ends-->
+
     <!-- SLIDER ENDS HERE -->
 
     <script src="js/jquery.min.js"> </script>
