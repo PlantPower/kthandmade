@@ -112,19 +112,27 @@
     <div class="container" id="slider"> <!-- container starts -->
       <div class="col-md-12"><!-- col-md-12 starts -->
         <div id="myCarousel" class="carousel slide" data-ride="carousel"><!-- carousel slide starts -->
-          <ol class="carousle-indicators"><!--carousel indicators starts -->
+          <ol class="carousel-indicators"><!--carousel indicators starts -->
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
           </ol> <!-- carousel indicators ends -->
           <div class="carousel-inner"><!--carousel-inner starts -->
             <div class="item active">
-              <img src="" alt="slider images will be shown here 1">
+              <img src="admin_area/slider_images/ktslider1.jpg" alt="KTslider 1">
             </div>
             <div class="item">
-              <img src="" alt="slider images will be shown here 2">
+              <img src="admin_area/slider_images/ktslider2.jpg" alt="KTslier 2">
             </div>
-          </div> <!-- carouse-inner ends -->
-        </div> <!-- carousel slides ends -->
+          </div> <!-- carousel-inner ends -->
+          <a href="#myCarousel" class="left carousel-control" data-slide="prev"><!-- left carousel starts -->
+            <span class="glyphicon glyphicon-chevron-left"></span>
+            <span class="sr-only">Previous</span>
+          </a><!-- left carousel ends -->
+          <a href="#myCarousel" class="right carousel-control" data-slide="next"><!-- right carousel starts -->
+            <span class="glyphicon glyphicon-chevron-right"></span>
+            <span class="sr-only">Next</span>
+          </a><!-- left carousel ends -->          
+        </div> <!-- carousel slide ends -->
       </div> <!--col-md-12 ends -->
     </div> <!-- container ends --> 
 
