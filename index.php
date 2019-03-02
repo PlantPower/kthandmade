@@ -135,6 +135,47 @@
         </div> <!-- carousel slide ends -->
       </div> <!--col-md-12 ends -->
     </div> <!-- container ends --> 
+    <div id="advantages"><!-- advantages starts -->
+      <div class="container"><!-- container starts -->
+        <div class="same-height-row"><!--same-heigh-row starts -->
+          <div class="col-sm-4"><!--col sm 4 starts -->
+            <div class="box same-height"><!--box same height starts -->
+              <div class="icon">
+                <i class="fa fa-heart"></i>
+              </div>
+              <h3>
+                <a href="#">KT Handmade</a>
+              </h3>
+              <p>Celebrate this years Valentines day with Love</p>
+            </div> <!--box same-height ends -->
+          </div><!-- col sm 4 ends -->
+          <div class="col-sm-4"><!--col sm 4 starts -->
+            <div class="box same-height"><!--box same height starts -->
+              <div class="icon">
+                <i class="fa fa-heart"></i>
+              </div>
+              <h3>
+                <a href="#">Created by Us</a>
+              </h3>
+              <p>We provied the best quality handmade in the city</p>
+            </div> <!--box same-height ends -->
+          </div><!-- col sm 4 ends -->
+          <div class="col-sm-4"><!--col sm 4 starts -->
+            <div class="box same-height"><!--box same height starts -->
+              <div class="icon">
+                <i class="fa fa-heart"></i>
+              </div>
+              <h3>
+                <a href="#">Handmade</a>
+              </h3>
+              <p>We creaty yor ideas</p>
+            </div> <!--box same-height ends -->
+          </div><!-- col sm 4 ends -->                    
+          
+
+      </div> <!--same-height-row ends -->
+      </div> <!--container ends -->
+    </div> <!--advantages ends -->
 
     <!-- SLIDER ENDS HERE -->
 
