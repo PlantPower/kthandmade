@@ -348,10 +348,11 @@
             </p>
           </div><!--text ends-->
         </div><!--colsm4colsm6 single ends-->
-
-
       </div> <!--row ends-->
     </div> <!--container ends-->
+    <?php
+      include("includes/footer.php");
+    ?>
 
     <!-- SLIDER ENDS HERE -->
 
