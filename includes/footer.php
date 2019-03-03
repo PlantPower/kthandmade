@@ -57,6 +57,15 @@
                         </span>
                     </div> <!-- input group -->
                 </form>
+                <hr>
+                <h4>Stay in Touch</h4>
+
+                    <p class="social">
+                        <a href="#" class=" fa fa-facebook"></a>
+                        <a href="#" class=" fa fa-twitter"></a>
+                        <a href="#" class=" fa fa-instagram"></a>
+                        <a href="#" class=" fa fa-envelope"></a>
+                    </p>
             </div> <!-- col md 3 col sm 6 -->   
         </div><!--row ends -->
     </div><!--container ends -->
