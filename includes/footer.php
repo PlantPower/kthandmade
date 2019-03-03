@@ -70,3 +70,14 @@
         </div><!--row ends -->
     </div><!--container ends -->
 </div><!--footer ends -->
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-6">
+            <p class="pull-left">&copy; 2019 KT HandMade Shop</p>
+        </div>
+        <div class="col-md-6">
+            <p class="pull-right">Template by <a href="www.jonasedoff.com">Edoff</a></p>
+        </div>
+    </div>
+</div>
