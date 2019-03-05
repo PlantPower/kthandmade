@@ -119,6 +119,136 @@
                     include("includes/sidebar.php");
                 ?>
             </div><!-- col md 3 -->
+            <div class="col-md-9"><!-- col md 9 -->
+              <div class="box">
+                <h1>Shop</h1>
+                <p>Lori Ipsum Lori IpsumLori IpsumLori Ipsum Lori Ipsum
+                Lori Ipsum Lori Ipsum Lori Ipsum Lori Ipsum Lori Ipsum 
+                Lori Ipsum Lori Ipsum Lori Ipsum Lori Ipsum Lori Ipsum Lori Ipsum
+                Lori Ipsum Lori Ipsum Lori Ipsum</p>
+              </div><!-- box -->
+
+              <div class="row">
+                <div class="col-md-4 col-sm-6 center-responsive">
+                  <div class="product">
+                    <a href="details.php">
+                      <img src="admin_area/product_images/product1.jpg" class="img-responsive" alt="Product Image">
+                    </a>
+                    <div class="text">
+                      <h3><a href="details.php">Product Text</a></h3>
+                    </div>
+                    <p class="price">€50</p>
+                    <p class="buttons">
+                      <a href="details.php" class="btn btn-default">View Details</a>
+                      <a href="details.php" class="btn btn-primary">
+                        <i class="fa fa-shopping-cart">Add to Cart</i>
+                      </a>
+                    </p>
+                  </div> <!-- product -->
+                </div> <!-- colmd4 colsm6 -->
+
+                <div class="col-md-4 col-sm-6 center-responsive">
+                  <div class="product">
+                    <a href="details.php">
+                      <img src="admin_area/product_images/product1.jpg" class="img-responsive" alt="Product Image">
+                    </a>
+                    <div class="text">
+                      <h3><a href="details.php">Product Text</a></h3>
+                    </div>
+                    <p class="price">€50</p>
+                    <p class="buttons">
+                      <a href="details.php" class="btn btn-default">View Details</a>
+                      <a href="details.php" class="btn btn-primary">
+                        <i class="fa fa-shopping-cart">Add to Cart</i>
+                      </a>
+                    </p>
+                  </div> <!-- product -->
+                </div> <!-- colmd4 colsm6 -->
+
+                <div class="col-md-4 col-sm-6 center-responsive">
+                  <div class="product">
+                    <a href="details.php">
+                      <img src="admin_area/product_images/product1.jpg" class="img-responsive" alt="Product Image">
+                    </a>
+                    <div class="text">
+                      <h3><a href="details.php">Product Text</a></h3>
+                    </div>
+                    <p class="price">€50</p>
+                    <p class="buttons">
+                      <a href="details.php" class="btn btn-default">View Details</a>
+                      <a href="details.php" class="btn btn-primary">
+                        <i class="fa fa-shopping-cart">Add to Cart</i>
+                      </a>
+                    </p>
+                  </div> <!-- product -->
+                </div> <!-- colmd4 colsm6 -->
+
+                <div class="col-md-4 col-sm-6 center-responsive">
+                  <div class="product">
+                    <a href="details.php">
+                      <img src="admin_area/product_images/product1.jpg" class="img-responsive" alt="Product Image">
+                    </a>
+                    <div class="text">
+                      <h3><a href="details.php">Product Text</a></h3>
+                    </div>
+                    <p class="price">€50</p>
+                    <p class="buttons">
+                      <a href="details.php" class="btn btn-default">View Details</a>
+                      <a href="details.php" class="btn btn-primary">
+                        <i class="fa fa-shopping-cart">Add to Cart</i>
+                      </a>
+                    </p>
+                  </div> <!-- product -->
+                </div> <!-- colmd4 colsm6 -->
+
+                <div class="col-md-4 col-sm-6 center-responsive">
+                  <div class="product">
+                    <a href="details.php">
+                      <img src="admin_area/product_images/product1.jpg" class="img-responsive" alt="Product Image">
+                    </a>
+                    <div class="text">
+                      <h3><a href="details.php">Product Text</a></h3>
+                    </div>
+                    <p class="price">€50</p>
+                    <p class="buttons">
+                      <a href="details.php" class="btn btn-default">View Details</a>
+                      <a href="details.php" class="btn btn-primary">
+                        <i class="fa fa-shopping-cart">Add to Cart</i>
+                      </a>
+                    </p>
+                  </div> <!-- product -->
+                </div> <!-- colmd4 colsm6 -->
+
+                <div class="col-md-4 col-sm-6 center-responsive">
+                  <div class="product">
+                    <a href="details.php">
+                      <img src="admin_area/product_images/product1.jpg" class="img-responsive" alt="Product Image">
+                    </a>
+                    <div class="text">
+                      <h3><a href="details.php">Product Text</a></h3>
+                    </div>
+                    <p class="price">€50</p>
+                    <p class="buttons">
+                      <a href="details.php" class="btn btn-default">View Details</a>
+                      <a href="details.php" class="btn btn-primary">
+                        <i class="fa fa-shopping-cart">Add to Cart</i>
+                      </a>
+                    </p>
+                  </div> <!-- product -->
+                </div> <!-- colmd4 colsm6 -->
+
+              </div> <!-- row -->
+              <center>
+                <ul class="pagination">
+                  <li><a href="shop.php">First Page</a></li>
+                  <li><a href="shop.php">2</a></li>
+                  <li><a href="shop.php">3</a></li>
+                  <li><a href="shop.php">4</a></li>
+                  <li><a href="shop.php">5</a></li>
+                  <li><a href="shop.php">Last Page</a></li>
+                </ul>
+              </center>
+            </div> <!-- col md 9 -->
         </div><!--container ends -->
     </div> <!-- content ends -->
 
